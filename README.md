@@ -9,6 +9,7 @@ During the project I have used following technologies
 - Kotlin Coroutines Flow
 - Jetpack Compose
 - DI Dagger Hilt
+- ViewModel
 - Retrofit
 - Moshi
 - CSV parsing with OpenCSV
